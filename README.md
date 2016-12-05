@@ -1,2 +1,2 @@
-# https://junkuninari.github.io
+# https://junkuninari.github.io/github.io/
 Web test
