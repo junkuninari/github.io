@@ -1,2 +1,2 @@
-# github.io
+# https://junkuninari.github.io
 Web test
